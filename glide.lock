@@ -1,0 +1,14 @@
+hash: ded24934df26ef6895813765b283d93df3c5bc6fa086717b07878da66b03b3c3
+updated: 2019-11-09T22:45:41.571503118+02:00
+imports:
+- name: github.com/konsorten/go-windows-terminal-sequences
+  version: f55edac94c9bbba5d6182a4be46d86a2c9b5b50e
+- name: github.com/satori/go.uuid
+  version: f58768cc1a7a7e77a3bd49e98cdd21419399b6a3
+- name: github.com/sirupsen/logrus
+  version: 839c75faf7f98a33d445d181f3018b5c3409a45e
+- name: golang.org/x/sys
+  version: c1f44814a5cd81a6d1cb589ef1e528bc5d305e07
+  subpackages:
+  - unix
+testImports: []
